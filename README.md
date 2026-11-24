@@ -6,7 +6,7 @@
 
 <p align="center">
   <b>Español</b> · <a href="README.en.md">English</a><br><br>
-Launcher simple y liviano para celulares, tablets y cajas de TV.<br>
+Cambiá el launcher de tablets y celulares viejos por uno simple y súper liviano.<br>
 Sin internet, sin publicidad y sin nada en segundo plano.<br>
 <b>Compatible con Android 2.3 a 16.</b>
 </p>

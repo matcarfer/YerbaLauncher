@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="README.md">Español</a> · <b>English</b><br><br>
-Simple, lightweight launcher for phones, tablets and TV boxes.<br>
+Replace the launcher of old phones and tablets with a simple, super light one.<br>
 No internet, no ads and nothing in the background.<br>
 <b>Compatible with Android 2.3 to 16.</b>
 </p>
