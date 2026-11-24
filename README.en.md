@@ -2,13 +2,13 @@
 
 <h1 align="center">YerbaLauncher</h1>
 
+<h2 align="center"><a href="https://github.com/matcarfer/YerbaLauncher/releases/download/v1.6.0/YerbaLauncher-1.6.0.apk">⬇ Download APK</a></h2>
+
 <p align="center">
   <a href="README.md">Español</a> · <b>English</b><br><br>
   Simple, lightweight launcher for old and new phones, tablets and TV boxes.<br>
 No internet, no ads and nothing in the background. Android 2.3+.
 </p>
-
-<p align="center"><a href="https://github.com/matcarfer/YerbaLauncher/releases/download/v1.6.0/YerbaLauncher-1.6.0.apk"><b>⬇ Download YerbaLauncher 1.6.0</b></a></p>
 
 <p align="center">
   <img src="docs/1-inicio.png" width="30%" alt="Home">
