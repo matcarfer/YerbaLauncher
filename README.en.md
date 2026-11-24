@@ -21,7 +21,7 @@ No internet, no ads and nothing in the background.<br>
 
 <p align="center">
   <a href="https://cafecito.app/matcarfer">☕ Cafecito</a> · <a href="https://ko-fi.com/matcarfer">☕ Ko-fi</a> · <a href="https://www.patreon.com/matcarfer">❤ Patreon</a><br>
-  <a href="https://github.com/matcarfer/library/blob/main/README.en.md">📚 Software library</a>
+  <a href="https://github.com/matcarfer/biblioteca/blob/main/README.en.md">📚 Software library</a>
 </p>
 
 ---
