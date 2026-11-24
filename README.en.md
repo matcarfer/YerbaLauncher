@@ -8,7 +8,7 @@
   <a href="README.md">Español</a> · <b>English</b><br><br>
 Simple, lightweight launcher for phones, tablets and TV boxes.<br>
 No internet, no ads and nothing in the background.<br>
-<b>Compatible with Android 2.3 to 15.</b>
+<b>Compatible with Android 2.3 to 16.</b>
 </p>
 
 <p align="center">

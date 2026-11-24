@@ -8,7 +8,7 @@
   <b>Español</b> · <a href="README.en.md">English</a><br><br>
 Launcher simple y liviano para celulares, tablets y cajas de TV.<br>
 Sin internet, sin publicidad y sin nada en segundo plano.<br>
-<b>Compatible con Android 2.3 a 15.</b>
+<b>Compatible con Android 2.3 a 16.</b>
 </p>
 
 <p align="center">
