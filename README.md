@@ -6,14 +6,15 @@
 
 <p align="center">
   <b>Español</b> · <a href="README.en.md">English</a><br><br>
-  Launcher simple y liviano para celulares, tablets y cajas de TV, viejos y nuevos.<br>
-Sin internet, sin publicidad y sin nada en segundo plano. Android 2.3+.
+Launcher simple y liviano para celulares, tablets y cajas de TV.<br>
+Sin internet, sin publicidad y sin nada en segundo plano.<br>
+<b>Compatible con Android 2.3 a 15.</b>
 </p>
 
 <p align="center">
-  <img src="docs/1-inicio.png" width="30%" alt="Inicio">
-  <img src="docs/2-apps.png" width="30%" alt="Apps">
-  <img src="docs/3-opciones.png" width="30%" alt="Opciones">
+  <img src="docs/1-inicio.png" width="30%" alt="YerbaLauncher">
+  <img src="docs/2-apps.png" width="30%" alt="YerbaLauncher">
+  <img src="docs/3-opciones.png" width="30%" alt="YerbaLauncher">
 </p>
 
 **Cómo se usa:** instalala, apretá Inicio y elegí **YerbaLauncher → Siempre**.
@@ -25,4 +26,4 @@ Sin internet, sin publicidad y sin nada en segundo plano. Android 2.3+.
 
 ---
 
-<sub>Gratis, de código cerrado. Podés usarla libremente; no la redistribuyas, compartí este link. Sin garantía. <a href="LICENSE">Licencia</a> · <a href="PRIVACY.es.md">Privacidad</a> · <a href="https://www.virustotal.com/gui/file/8f568df59aab5126c9eb1deaefb6d62548eb2df4bb91baa4ac1934f1cc6cb92a">VirusTotal</a></sub>
+<sub>Gratis, de código cerrado. No redistribuir: compartí este link. Sin garantía. <a href="LICENSE">Licencia</a> · <a href="PRIVACY.es.md">Privacidad</a> · <a href="https://www.virustotal.com/gui/file/8f568df59aab5126c9eb1deaefb6d62548eb2df4bb91baa4ac1934f1cc6cb92a">VirusTotal</a></sub>

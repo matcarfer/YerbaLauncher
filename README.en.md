@@ -6,14 +6,15 @@
 
 <p align="center">
   <a href="README.md">Español</a> · <b>English</b><br><br>
-  Simple, lightweight launcher for old and new phones, tablets and TV boxes.<br>
-No internet, no ads and nothing in the background. Android 2.3+.
+Simple, lightweight launcher for phones, tablets and TV boxes.<br>
+No internet, no ads and nothing in the background.<br>
+<b>Compatible with Android 2.3 to 15.</b>
 </p>
 
 <p align="center">
-  <img src="docs/1-inicio.png" width="30%" alt="Home">
-  <img src="docs/2-apps.png" width="30%" alt="Apps">
-  <img src="docs/3-opciones.png" width="30%" alt="Options">
+  <img src="docs/1-inicio.png" width="30%" alt="YerbaLauncher">
+  <img src="docs/2-apps.png" width="30%" alt="YerbaLauncher">
+  <img src="docs/3-opciones.png" width="30%" alt="YerbaLauncher">
 </p>
 
 **How to use:** install it, press Home and choose **YerbaLauncher → Always**.
@@ -25,4 +26,4 @@ No internet, no ads and nothing in the background. Android 2.3+.
 
 ---
 
-<sub>Free, closed source. Free to use; do not redistribute, share this link. No warranty. <a href="LICENSE">License</a> · <a href="PRIVACY.md">Privacy</a> · <a href="https://www.virustotal.com/gui/file/8f568df59aab5126c9eb1deaefb6d62548eb2df4bb91baa4ac1934f1cc6cb92a">VirusTotal</a></sub>
+<sub>Free, closed source. Do not redistribute: share this link. No warranty. <a href="LICENSE.en">License</a> · <a href="PRIVACY.md">Privacy</a> · <a href="https://www.virustotal.com/gui/file/8f568df59aab5126c9eb1deaefb6d62548eb2df4bb91baa4ac1934f1cc6cb92a">VirusTotal</a></sub>
