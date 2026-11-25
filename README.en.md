@@ -2,7 +2,7 @@
 
 <h1 align="center">YerbaLauncher</h1>
 
-<h2 align="center"><a href="https://github.com/matcarfer/YerbaLauncher/releases/download/v1.6.0/YerbaLauncher-1.6.0.apk">⬇ Download APK</a></h2>
+<h2 align="center"><a href="https://github.com/matcarfer/YerbaLauncher/releases/download/v1.6.1/YerbaLauncher-1.6.1.apk">⬇ Download APK</a></h2>
 
 <p align="center">
   <a href="README.md">Español</a> · <b>English</b><br><br>
@@ -26,4 +26,4 @@ No internet, no ads and nothing in the background.<br>
 
 ---
 
-<sub>Free, closed source. Do not redistribute: share this link. No warranty. <a href="LICENSE.en">License</a> · <a href="PRIVACY.md">Privacy</a> · <a href="https://www.virustotal.com/gui/file/8f568df59aab5126c9eb1deaefb6d62548eb2df4bb91baa4ac1934f1cc6cb92a">VirusTotal</a></sub>
+<sub>Free, closed source. Do not redistribute: share this link. No warranty. <a href="LICENSE.en">License</a> · <a href="PRIVACY.md">Privacy</a> · <a href="https://www.virustotal.com/gui/file/b5c0213464f7317e496326207b88c223f3d81706b8efc32bdb6a6085fed85389">VirusTotal</a></sub>
